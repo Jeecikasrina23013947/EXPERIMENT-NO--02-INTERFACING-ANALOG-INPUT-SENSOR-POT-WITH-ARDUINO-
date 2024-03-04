@@ -68,9 +68,7 @@ CIRCUIT DIAGRAM
 
 **PROGRAM** 
  
-```ino
-int LED_PIN = 7;
-#define POTENTIOMETER_PIN A0
+```
 
 void setup()
 {
@@ -103,7 +101,7 @@ void loop()
 ![2nd circuit](https://github.com/nagaraj6618/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/127173574/75ca3f34-954f-450a-ba69-6c0941bee746)
 
 
-![2nd exp](https://github.com/nagaraj6618/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/127173574/2fb66fe8-3fa1-4a3c-99c1-700374f1d550)
+![robo12](https://github.com/Vasanth2k4/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/148515300/65af6620-8fd3-4995-b5ba-8456b3374d9f)
 
 
 **RESULT:** Arduino uno analog input functioning is learned and interfaced with digital input switch .
